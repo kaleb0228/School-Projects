@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Lead
+comment0.text=\r\n\ Defining\ the\ Lead\ for\ the\ Pencil.\r\n\r\n\ \r\n\ \r\n
+comment1.params=
+comment1.target=Lead()
+comment2.params=
+comment2.target=double\ getThickness()
+comment3.params=
+comment3.target=double\ getLength()
+numComments=4
